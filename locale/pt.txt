@@ -1,0 +1,35 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_8FB68F90_9C63_0DDA_41D2_88871892E5B0.source = https://api.whatsapp.com/send?phone=5522997956514&text=Ol%C3%A1!!%20Seja%20bem%20vindo%20%C3%A0%20Academia%20do%20cabe%C3%A7a.%20Como%20posso%20ajudar%3F%3F
+LinkBehaviour_8A23FCEF_9C22_F346_41CA_CE23FDB8C886.source = https://api.whatsapp.com/send?phone=5522997956514&text=Ol%C3%A1!!%20Seja%20bem%20vindo%20%C3%A0%20Academia%20do%20cabe%C3%A7a.%20Como%20posso%20ajudar%3F%3F
+LinkBehaviour_88184097_9C61_13C6_41C4_6BD38FE695DE.source = https://www.google.com.br/maps/place/Bem+Estar+Pet/@-21.7564218,-41.3345294,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd56602d07f67:0xf1eb9a2247687692!8m2!3d-21.7564268!4d-41.3323407?hl=pt-BR
+LinkBehaviour_8A204CEF_9C22_F346_41D6_787067E682B8.source = https://www.google.com.br/maps/place/Bem+Estar+Pet/@-21.7564218,-41.3345294,17z/data=!3m1!4b1!4m5!3m4!1s0xbdd56602d07f67:0xf1eb9a2247687692!8m2!3d-21.7564268!4d-41.3323407?hl=pt-BR
+LinkBehaviour_8A202CEF_9C22_F346_41A7_724D2D86C7EE.source = https://www.instagram.com/022_jambo/
+LinkBehaviour_8FE00573_9C67_1D5E_41A2_F94D3E7273FD.source = https://www.instagram.com/022_jambo/
+
+## Media
+
+### Audio
+audiores_88183E6A_9C23_0F4E_41C5_CFF8BADDF963.mp3Url = media/audio_8FC433C5_9C23_15BA_41D3_3AACE22BF589_pt.mp3
+
+### Title
+panorama_8E1CC024_9C23_F2FA_41A1_4B695984AF85.label = 1
+panorama_8C1DD68A_9C23_1FCE_41D5_96F64E4AE0EE.label = 2
+panorama_8C1E2494_9C23_33DA_41BA_AD6DECBCAF6A.label = 3
+panorama_8C1EF1D2_9C23_155E_41D6_46550265ACA6.label = 4
+
+## Skin
+
+### Label
+Label_8AE6D1D7_9C3F_1546_41DD_8128DE68794B.text = teste cabeça
+Label_8AE6D1D7_9C3F_1546_41DD_8128DE68794B_mobile.text = teste cabeça
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Projeto Teste Cabeça
